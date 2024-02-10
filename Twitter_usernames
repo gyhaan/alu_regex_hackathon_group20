@@ -1,0 +1,2 @@
+@(\w+)
+This regular expression will match Twitter usernames that follow the pattern "@username", where "username" can contain any combination of letters, digits, or underscores.
